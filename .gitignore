@@ -23,3 +23,7 @@ go.work
 
 # macOS stuff
 .DS_Store
+
+# AoC data files
+example.txt
+input.txt
